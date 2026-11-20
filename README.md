@@ -2,4 +2,4 @@
 
 Save it here only for learning purpose. The original code is from [Trae official website](https://www.trae.ai).
 
-<video src="./screen_recording.mp4" width="320" height="240" controls></video>
+https://github.com/user-attachments/assets/01d0fc29-c1c9-4e4d-b455-75fedf5165f4
